@@ -1,0 +1,13 @@
+Recibo de pagamento
+
+
+Recebi do Sr: Nome do pagador
+a quantia de VALOR DO RECIBO (VALOR POR EXTENSO),
+referente ao DESCRIÇÃO DO QUE FOI PAGO...
+CIDADE, DATA
+
+
+----------------------------------------------
+Nome do pagador
+CPF do pagador: CPF
+

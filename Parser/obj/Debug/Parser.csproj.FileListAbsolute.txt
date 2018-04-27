@@ -1,0 +1,6 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\bin\Debug\Parser.exe.config
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\bin\Debug\Parser.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\bin\Debug\Parser.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\obj\Debug\Parser.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\obj\Debug\Parser.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ExemploParser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
