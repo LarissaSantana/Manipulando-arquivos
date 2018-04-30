@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipularTxt", "Parser\ManipularTxt.csproj", "{45EE8DF4-2640-4906-ADF7-2696DC451A1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoArquivos", "Parser\ManipulandoArquivos.csproj", "{45EE8DF4-2640-4906-ADF7-2696DC451A1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
