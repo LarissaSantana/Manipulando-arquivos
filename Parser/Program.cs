@@ -96,7 +96,7 @@ namespace ManipularTxt
 
             string caminho = @"C:\Users\larissa.santana\Documents\Visual Studio 2017\Projects\ExemploParser\arquivo.txt";
 
-            arquivo = File.OpenText();
+            //arquivo = File.OpenText();
             #endregion
 
             #region Abrindo o arquivo texto em um bloco de notas
